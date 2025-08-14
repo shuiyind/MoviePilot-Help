@@ -412,7 +412,10 @@ Lv2 kara Cheat datta => {[tmdbid=237233;type=tv;]}
 Thefable => 杀手寓言
 
 #转生为第七王子，随心所欲的魔法学习之路
+Tensei.shitara.Dainana.Ouji.*2nd.Season.*-\s*(\d+) => Tensei shitara Dainana Ouji S01E\1
+Tensei.shitara.Dainana.Ouji.*S02 => Tensei shitara Dainana Ouji S01
 Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu => {[tmdbid=213830;type=tv;]}
+
 
 #大欺诈师
 GREAT PRETENDER razbliuto => {[tmdbid=93816;type=tv;s=2]}
