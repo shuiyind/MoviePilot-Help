@@ -452,6 +452,10 @@ Heaven's Lost Property Final：Eternal My Master => Heaven's Lost Property Final
 \[ANi\].*\/ => [ANi]
 
 #视频来源修正
+(?i)\bStudio\s*GreenTea\b => 绿茶字幕组
+(?i)\bAirota\b => 千夏字幕组
+(?i)\bUHA-WINGS\b => 悠哈璃羽字幕社
+(?i)\bKitaujiSub\b => 北宇治字幕组
 (?i)\bSBSUB\b => 银色子弹字幕组
 (?i)\bNekomoe kisstan\b => 喵萌奶茶屋
 (?i)\bOPFansMaplesnow\b => OPFans枫雪动漫
